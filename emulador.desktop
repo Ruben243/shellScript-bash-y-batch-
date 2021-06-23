@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Emulator
+Comment=Inicia el emulador
+Exec=/home/ruben-gfp/.local/share/applications/emulador.sh
+Icon=/home/ruben-gfp/.local/share/applications/movil.png
+Terminal=false
+Type=Application
+Categories=Utility;Application,Development;
